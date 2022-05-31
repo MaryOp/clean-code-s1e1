@@ -42,17 +42,17 @@
     flex-grow: 1;
 }
 
-.task-list__task-item_newMode {
+.task-list__task-item_new-mode {
     display: flex;
 }
 
 
-.task-list__task-item_newMode
+.task-list__task-item_new-mode
 .task-list__task-input {
     display: inline-block;
 }
 
-.task-list__task-input_newMode {
+.task-list__task-input_new-mode {
     width: 318px;
 }
 
@@ -160,13 +160,13 @@ button {
     display: none;
 }
 
-.task-list__task-item_editMode
+.task-list__task-item_edit-mode
 .task-list__task-input {
     display: inline-block;
     width: 224px;
 }
 
-.task-list__task-item_editMode
+.task-list__task-item_edit-mode
 .task-list__task-label {
     display: none;
 }
